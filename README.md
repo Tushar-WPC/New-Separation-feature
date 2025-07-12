@@ -1,3 +1,17 @@
+PLEASE OPEN "document.md" FROM PREVIOUS SECTION
+
+
+
+
+
+
+
+
+
+
+
+
+
 🏫 Hostel Module – Student Separation Use Case
 This repository documents the "Separate Students from Hostel" feature from the Hostel Module of a college administrative ERP system. It outlines the end-to-end process allowing hostel administrators to filter, view, and separate students based on academic session, hostel name, and balance sheet configuration.
 
